@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consummer/consummer.iml" filepath="$PROJECT_DIR$/consummer/consummer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/produce/produce.iml" filepath="$PROJECT_DIR$/produce/produce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/start.iml" filepath="$PROJECT_DIR$/start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topic_consummer/topic_consummer.iml" filepath="$PROJECT_DIR$/topic_consummer/topic_consummer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topic_produce/topic_produce.iml" filepath="$PROJECT_DIR$/topic_produce/topic_produce.iml" />
+    </modules>
+  </component>
+</project>
